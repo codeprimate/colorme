@@ -1,0 +1,12 @@
+== ColorMe 0.1.1
+
+A VERY SIMPLE wrapper for outputting strings in color using ANSI color codes
+
+== Usage
+ require 'rubygems'
+ require 'colorme'
+ puts "Hello World!".color(:red)
+
+
+(c)2010 Patrick Morgan
+www.patrick-morgan.net
